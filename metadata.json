@@ -1,0 +1,6 @@
+{
+  "name": "FridgeChef",
+  "description": "AI Zero-Waste Meal Planner that generates personalized recipes from leftovers to reduce food waste and save money.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
